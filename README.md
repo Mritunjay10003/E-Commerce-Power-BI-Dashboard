@@ -48,3 +48,11 @@ The **E-Commerce Dashboard** provides a comprehensive overview of online retail 
 | Excel / CSV     | (Assumed) Data sources         |
 
 ---
+
+## 📬 Contact
+
+**Mritunjay Singh**  
+📧 Email: mritunjaysingh.as@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/mritunjaysingh10003](https://linkedin.com/in/mritunjaysingh10003)  
+
+> 🧠 *One person's data is another person's noise― K.C. Cole*
